@@ -1,6 +1,6 @@
 # MyRecipe
 
-MyRecipe is a web applciation that takes in the users' ingrediants and generates a list of recipes. 
+MyRecipe is a web application that takes in the users' ingredients and generates a list of recipes. 
 Mentee: Gargi Kand
 Mentor: William Huang
 
