@@ -1,24 +1,11 @@
-# README
+# MyRecipe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+MyRecipe is a web applciation that takes in the users' ingrediants and generates a list of recipes. 
+Mentee: Gargi Kand
+Mentor: William Huang
 
-Things you may want to cover:
+Languages: Ruby, HTML, CSS 
+Frameworks: Rails
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
